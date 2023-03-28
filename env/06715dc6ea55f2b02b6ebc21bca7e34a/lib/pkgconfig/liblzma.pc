@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a
+exec_prefix=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a
+libdir=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/lib
+includedir=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.10
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread

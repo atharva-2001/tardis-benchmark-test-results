@@ -1,0 +1,13 @@
+prefix=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a
+exec_prefix=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a
+libdir=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/lib
+sharedlibdir=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/lib
+includedir=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

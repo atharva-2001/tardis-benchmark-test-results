@@ -1,0 +1,11 @@
+prefix=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
