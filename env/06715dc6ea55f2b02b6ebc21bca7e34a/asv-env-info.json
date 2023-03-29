@@ -1,6 +1,0 @@
-{
-    "build_env_vars": {},
-    "python": "3.10",
-    "requirements": {},
-    "tool_name": "conda"
-}

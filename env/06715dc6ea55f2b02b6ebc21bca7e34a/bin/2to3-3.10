@@ -1,5 +1,0 @@
-#!/home/runner/work/tardis-benchmark-test/tardis-benchmark-test/.asv/env/06715dc6ea55f2b02b6ebc21bca7e34a/bin/python3.10
-import sys
-from lib2to3.main import main
-
-sys.exit(main("lib2to3.fixes"))
