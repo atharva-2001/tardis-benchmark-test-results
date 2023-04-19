@@ -1,1 +1,1 @@
-{"regressions": [["benchmarks.TimeSuite.time_runthis", "graphs/arch-x86_64/branch-main/cpu-Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz/machine-fv-az364-271/num_cpu-2/os-Linux 5.15.0-1035-azure/python-3.10/ram-7110616/benchmarks.TimeSuite.time_runthis.json", {}, null, 0.0004138249599992605, 6.557471372372168e-07, [[null, 108, 3.6095323112459444e-06, 0.0004138249599992605]]]]}
+{"regressions": []}
