@@ -1,1 +1,0 @@
-{"regressions": [["benchmarks.TimeSuite.time_values", "graphs/arch-x86_64/branch-main/cpu-Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz/machine-Atharva/num_cpu-8/os-Linux 5.15.0-57-generic/python-3.8/ram-16GB/benchmarks.TimeSuite.time_values.json", {}, null, 0.0007638624374521896, 0.0007064014685056463, [[null, 95, 0.0007064014685056463, 0.0007638624374521896]]]]}

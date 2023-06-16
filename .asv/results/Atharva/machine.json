@@ -1,9 +1,0 @@
-{
-    "arch": "x86_64",
-    "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
-    "machine": "Atharva",
-    "num_cpu": "8",
-    "os": "Linux 5.15.0-57-generic",
-    "ram": "16GB",
-    "version": 1
-}
